@@ -1,0 +1,67 @@
+{
+	"black tie optional":{
+		"woman": " Look glamorous in a long gown, cocktail dress, or luxurious separates. Accessorize with items such as long gloves, clutches, and jewelry to top off the whole look.",
+		"man":" If you own a tuxedo, put it on. If not, wear a suit in a dark color such as charcoal or black, paired with a white dress shirt, and a solid colored tie. Make sure patterns are kept to a minimum and shoes are shined. Accessorize your look with a pocket square and cuff links.",
+		"event":" elegant events such as galas, silent auctions, weddings, formal dinners."
+	},
+	"smart casual":{
+		"woman": " Wear a pencil skirt or dress pants, paired with a silk or button-down top and high heels.",
+		"man":" Opt for dressy trousers, paired with a collared shirt and loafers.",
+		"event":" office parties, happy hours, business luncheons."
+	},
+	"dressy casual":{
+		"woman": " Avoid wearing denim, tennis shoes, and cotton tees. Instead, opt for silk pants, dress pants, or a skirt. Pair with a patent leather flat, or one with nice embellishments such as a bow, buckle, or a print.",
+		"man":" Wear trousers and a dress shirt with a leather loafer, oxfords, or a slip-on shoe. Pair with a blazer or sport coat. Avoid showing up with wrinkles or clothes one size too big, too small, or in a non-coordinating color. A tie is optional.",
+		"event":" church, dinner, or an invite received via phone or e-mail."
+	},
+	"country club casual":{
+		"woman": " Choose an open-necked or polo shirt. You can also opt for dresses and skirts with minimal accessories.",
+		"man":" Wear an open-necked or polo shirt, paired with khakis. Accessorize with leather shoes and a belt.",
+		"event":" cruise lines, the country club, friend’s home for dinner, nice restaurant."
+	},
+	"business casual":{
+		"woman": " Put on a skirt, khakis, or dress pants paired with long sleeve or three-quarter sleeve tops. A casual dress and flats are options as well.",
+		"man":" Wear a button-down or a polo shirt, paired with khakis, or dress pants. If you so desire, layer with a v-neck sweater, a blazer, or a sport coat. A tie is optional.",
+		"event":" company party, daily work attire, business lunch meetings."
+	},
+	"cocktail attire":{
+		"woman": "  Wear a shorter dress with some frill. The classic little black dress makes for great cocktail attire, and is the easiest to show your personality by accessorizing to suit your mood.",
+		"man":" Wear a dark suit, coat, and tie. Opting for dark jeans paired with a jacket and tie is also acceptable at some cocktail events, depending on how casual the atmosphere is.",
+		"event":" adult birthday parties, evening social events."
+	},
+	"white tie":{
+		"woman": "  A floor-length ball gown is a must. Accessorize with opera length gloves, glamorous jewels, and up-do hairstyles.",
+		"man":"  Wear a short or waist length black tailcoat (tails should reach the back of your knees,) white bow tie, starched white shirt, and a cummerbund (optional). Sport high-quality black pants.",
+		"event":" charity fundraisers, government ceremonies, weddings, the opera."
+	},
+	"black tie":{
+		"woman": " Gussy up in a floor-length ball gown. A very dressy cocktail dress may be acceptable depending on the venue of the event.",
+		"man":"  Wear a dark suit or a tuxedo without tails. Pair with a white shirt and a tie, or a bow tie with or without a vest and a cummerbund.",
+		"event":" charity fundraisers, political dinner parties, weddings."
+	},
+	"lounge":{
+		"woman": "  Wear a dress that would be appropriate for brunch or afternoon tea. It should fall to, or slightly above, the knee, and not be too sparkly or low-cut. Incorporate a jacket or shawl to cover the arms.",
+		"man":" Opt for a dark suit, paired with a French-cuffed, crisp white shirt. You can go with or without a tie. Opting for a vest instead of a tie adds to the informality of the look.",
+		"event":" daytime engagement parties, business breakfasts, afternoon tea."
+	},
+	"creative black tie":{
+		"woman": " Dress up in a long gown, cocktail dress, or snazzy separates. Accessorize with the latest trends, such as feathers, sequins, sheer fabrics, and capes. Show off your personality with every detail.",
+		"man":" Incorporate trendy prints in with your tie and a dressy shirt. Mix fabrics such as a silk blazer and a dress shirt to create a formal, yet interesting, look.",
+		"event":" galas, silent auctions, weddings, and formal dinners that have a fun atmosphere."
+	},
+	"warm weather black tie":{
+		"woman": " Wear a long gown with white gloves and minimal jewelry.",
+		"man":" Wear a white dinner jacket, in a worsted wool, gabardine, linen, or cotton fabric material. Pair this with a white dress shirt, bow tie, a cummerbund, and nice black leather shoes.",
+		"event":" formal events that are held outdoors, such as a cruise line or country club dinners, weddings, and galas."
+	},
+	"casual":{
+		"woman": " Your accessories and makeup, if you choose to wear them, should follow the same rules as your clothing: pretty much anything goes, as long as it’s not offensive or overly lazy. ",
+		"man":" Wear jeans, dress shirt (casually turn down collared), T-shirt or sleeveless shirt. Closed-toe shoes are a good choice, like sneakers, loafers, or boat shoes. Accessories like belts are optional (unless your pants will fall down without one).",
+		"event":" for example, school, cinema, zoo, shopping."
+	},
+	"other":{
+		"woman": " no data",
+		"man":" no data",
+		"event":" no data"
+	}
+}
